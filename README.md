@@ -1,7 +1,9 @@
 # Spark-Bot
-Spark Bot Q&amp;A write to CSV
+Spark Bot Q&amp;A write to CSV for documenting information gathered.
 
-Changing from Kraken
+Will reply to a 1:1 request with a few questions, then store these in a CSV.
+
+
 
 Based on BrBester's pyCiscoSpark
 
