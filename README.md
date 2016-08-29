@@ -1,7 +1,7 @@
 # Spark-Bot
 Spark Bot Q&amp;A write to CSV
 
-
+Changing from Kraken
 
 Based on BrBester's pyCiscoSpark
 
